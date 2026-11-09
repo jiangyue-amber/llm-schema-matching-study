@@ -1,0 +1,1 @@
+A foreign key to the provider in the PROVIDER table who initiated of administered the Device.

@@ -1,0 +1,1 @@
+[VOCABULARY] The CONCEPT_SYNONYM table is used to store alternate names and descriptions for Concepts.';

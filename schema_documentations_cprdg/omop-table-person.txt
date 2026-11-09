@@ -1,0 +1,1 @@
+[CLINICAL] The Person Domain contains records that uniquely identify each patient in the source data who is time at-risk to have clinical observations recorded within the source systems.';

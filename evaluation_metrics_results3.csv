@@ -1,0 +1,17 @@
+File,Unknown %,Precision,Recall,F1,TP,FP,FN,TN
+gemini_bank_results_1-N.csv,0.0,1.0,0.9412,0.9697,16,0,1,71
+gemini_cms_results_1-N.csv,0.16,0.4343,0.5343,0.4791,109,142,95,11201
+gemini_cprda_results_1-N.csv,0.16,0.5093,0.7432,0.6044,55,53,19,2386
+gemini_cprdg_results_1-N.csv,0.24,0.2762,0.6173,0.3817,50,131,31,4728
+gemini_imdb_results_1-N.csv,0.17,0.913,0.6,0.7241,21,2,14,562
+gemini_mimic_results_1-N.csv,0.31,0.4656,0.5687,0.512,149,171,113,7407
+gemini_original_results_1-N.csv,0.54,0.5231,0.6939,0.5965,34,31,15,1759
+gemini_synthea_results_1-N.csv,0.35,0.629,0.629,0.629,78,46,46,2669
+huggingface_bank_results_1.7b.csv,3.41,0.8333,0.8824,0.8571,15,3,2,68
+huggingface_cms_results_1.7b.csv,9.4,0.2254,0.4951,0.3098,101,347,103,10996
+huggingface_cprda_results_1.7b.csv,9.31,0.2121,0.473,0.2929,35,130,39,2309
+huggingface_cprdg_results_1.7b.csv,7.59,0.1692,0.4198,0.2411,34,167,47,4692
+huggingface_imdb_results_1.7b.csv,6.34,0.4167,0.4286,0.4225,15,21,20,543
+huggingface_mimic_results_1.7b.csv,11.4,0.3466,0.4313,0.3844,113,213,149,7365
+huggingface_original_results_1.7b.csv,16.37,0.234,0.449,0.3077,22,72,27,1718
+huggingface_synthea_results_1.7b.csv,13.7,0.4208,0.621,0.5016,77,106,47,2609

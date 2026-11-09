@@ -1,0 +1,1 @@
+If the Observation record is related to another record in the database, this field is the primary key of the linked record.

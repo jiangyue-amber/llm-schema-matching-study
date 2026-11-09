@@ -1,0 +1,1 @@
+A Geometry column with a spatial index on it.

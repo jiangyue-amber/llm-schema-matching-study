@@ -1,0 +1,1 @@
+Unit of measurement for the rate originally chosen.

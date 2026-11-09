@@ -1,0 +1,1 @@
+Tracks payments made towards loans, with each payment linked to a specific loan.

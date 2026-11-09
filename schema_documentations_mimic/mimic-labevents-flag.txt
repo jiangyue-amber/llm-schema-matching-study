@@ -1,0 +1,1 @@
+Flag indicating whether the lab test value is considered abnormal (null if the test was normal).

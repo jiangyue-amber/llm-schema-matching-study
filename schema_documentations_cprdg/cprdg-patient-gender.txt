@@ -1,0 +1,1 @@
+Description: Patients gender, Type: INTEGER, Format: 1, Field Name: Patient Gender, Mapping: Lookup SEX

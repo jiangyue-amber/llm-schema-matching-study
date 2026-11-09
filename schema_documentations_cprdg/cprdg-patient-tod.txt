@@ -1,0 +1,1 @@
+Description: Date the patient transferred out of the practice, if relevant. Empty for patients who have not transferred out, Type: DATE, Format: DD/MM/YYYY, Field Name: Transfer Out Date, Mapping: DD/MM/YYYY

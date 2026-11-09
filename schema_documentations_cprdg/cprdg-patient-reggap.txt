@@ -1,0 +1,1 @@
+Description: Number of days missing in the patients registration details, Type: INTEGER, Format: 5, Field Name: Registration Gaps, Mapping: PAT_GAP2

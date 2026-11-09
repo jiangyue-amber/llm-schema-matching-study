@@ -1,0 +1,1 @@
+Description: CPRD unique code for the treatment selected by the GP, Type: INTEGER, Format: 20, Field Name: Product Code, Mapping: Lookup Product Dictionary

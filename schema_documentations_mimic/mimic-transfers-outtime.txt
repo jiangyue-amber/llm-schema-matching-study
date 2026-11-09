@@ -1,0 +1,1 @@
+Time when the patient was transferred out of the unit.

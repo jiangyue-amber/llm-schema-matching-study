@@ -1,0 +1,1 @@
+Description: Indicates the native encoding of the record in the Vision software (4 = term selected from Read dictionary, 5 = term selected from SNOMED CT), Type: INTEGER, Format: 1, Field Name: SNOMED mapping type, Mapping: None

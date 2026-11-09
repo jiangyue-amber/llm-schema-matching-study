@@ -1,0 +1,1 @@
+Flag to highlight that the value has triggered a warning.

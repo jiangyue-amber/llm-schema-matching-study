@@ -1,0 +1,1 @@
+This field is the primary key of the linked record in the database. For example, if the Episode Event is a Condition Occurrence, then the CONDITION_OCCURRENCE_ID of the linked record goes in this field. Put the primary key of the linked record here.

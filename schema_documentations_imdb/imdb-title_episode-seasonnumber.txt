@@ -1,0 +1,1 @@
+season number the episode belongs to (integer)

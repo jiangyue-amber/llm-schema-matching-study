@@ -1,0 +1,1 @@
+The film table is a list of all films potentially in stock in the stores. The actual in-stock copies of each film are represented in the inventory table. It refers to the language table and is referred to by the film_category, film_actor, and inventory tables.';

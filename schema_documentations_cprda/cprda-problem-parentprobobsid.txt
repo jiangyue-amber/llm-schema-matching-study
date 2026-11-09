@@ -1,0 +1,1 @@
+Description: Observation identifier for the parent observation of the problem. This can be used to group problems via the Observation table., Type: TEXT, Format: Up to 19 numeric characters, Field Name: Parent problem observation identifier, Mapping: Link Observation table

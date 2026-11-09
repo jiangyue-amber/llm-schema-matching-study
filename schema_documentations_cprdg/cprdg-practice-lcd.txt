@@ -1,0 +1,1 @@
+Description: Date of the last collection for the practice, Type: DATE, Format: DD/MM/YYYY, Field Name: Last Collection Date, Mapping: DD/MM/YYYY

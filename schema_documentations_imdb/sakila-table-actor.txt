@@ -1,0 +1,1 @@
+The actor table lists information for all actors. The actor table is joined to the film table by means of the film_actor table.';

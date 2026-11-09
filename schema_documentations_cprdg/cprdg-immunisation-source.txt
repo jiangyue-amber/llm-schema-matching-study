@@ -1,0 +1,1 @@
+Description: Location where the immunisation was administered, e.g. In this practice, Type: INTEGER, Format: 3, Field Name: Source, Mapping: Lookup INP

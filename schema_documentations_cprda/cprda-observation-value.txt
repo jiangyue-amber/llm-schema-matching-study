@@ -1,0 +1,1 @@
+Description: Measurement or test value, Type: NUMERIC, Format: 19.3, Field Name: Value, Mapping: None

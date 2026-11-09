@@ -1,0 +1,1 @@
+Use this field to link the EPISODE_EVENT record to its EPISODE. Put the EPISODE_ID that subsumes the EPISODE_EVENT record here.

@@ -1,0 +1,1 @@
+Description: The mapped drug DMD code, Type: TEXT, Format: 20, Field Name: DMD Code, Mapping: None

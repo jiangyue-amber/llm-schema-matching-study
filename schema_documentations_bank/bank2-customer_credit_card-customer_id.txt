@@ -1,0 +1,1 @@
+Foreign key reference to the customer who owns the credit card.

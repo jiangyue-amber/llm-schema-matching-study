@@ -1,0 +1,1 @@
+Description: Unit of measurement, Type: INTEGER, Format: 10, Field Name: Numeric unit identifier, Mapping: Lookup: NumUnit.txt

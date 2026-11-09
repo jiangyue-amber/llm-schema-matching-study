@@ -1,0 +1,1 @@
+Fluid associated with the item, for example blood or urine.

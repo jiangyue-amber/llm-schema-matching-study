@@ -1,0 +1,1 @@
+Description: Reserved for use when systems write SNOMED CT terms natively. Used to indicate the reliability of the reverse SNOMED CT-Read map. Where SNOMED CT codes do not have a direct mapping to READ, the code Rz…00 will be utilised., Type: BOOLEAN, Format: 1, Field Name: SCT Is Indicative, Mapping: None

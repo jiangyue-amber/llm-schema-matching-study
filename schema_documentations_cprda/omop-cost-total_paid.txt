@@ -1,0 +1,1 @@
+The total amount actually paid from all payers for goods or services of the provider.

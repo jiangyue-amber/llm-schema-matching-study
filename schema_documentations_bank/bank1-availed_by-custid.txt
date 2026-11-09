@@ -1,0 +1,1 @@
+Foreign key linking the loan to a customer who availed it

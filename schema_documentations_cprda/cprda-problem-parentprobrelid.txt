@@ -1,0 +1,1 @@
+Description: Description of the relationship of the problem to another problem e.g. the problem may have evolved or been merged with another problem as the problem, or the GP’s understanding of the problem, changes, Type: INTEGER, Format: 5, Field Name: Parent problem relationship identifier, Mapping: Lookup ParentProbRel.txt

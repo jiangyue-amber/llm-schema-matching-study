@@ -1,0 +1,1 @@
+Foreign key reference to the branch where the banker is employed.

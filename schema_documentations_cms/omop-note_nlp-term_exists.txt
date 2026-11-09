@@ -1,0 +1,1 @@
+A summary modifier that signifies presence or absence of the term for a given patient. Useful for quick querying. *

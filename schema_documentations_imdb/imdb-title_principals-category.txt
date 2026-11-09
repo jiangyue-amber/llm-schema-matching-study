@@ -1,0 +1,1 @@
+the category of job that person was in (string)

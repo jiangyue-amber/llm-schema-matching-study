@@ -1,0 +1,1 @@
+Description: Estimated cost of the treatment to the NHS, Type: DECIMAL, Format: 10.4, Field Name: Estimated NHS cost, Mapping: None

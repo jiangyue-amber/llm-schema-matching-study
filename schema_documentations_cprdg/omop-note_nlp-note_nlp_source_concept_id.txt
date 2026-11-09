@@ -1,0 +1,1 @@
+A foreign key to a Concept that refers to the code in the source vocabulary used by the NLP system

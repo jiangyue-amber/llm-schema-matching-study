@@ -1,0 +1,1 @@
+The number of days of supply of the medication as recorded in the original prescription or dispensing record.

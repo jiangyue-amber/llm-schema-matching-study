@@ -1,0 +1,1 @@
+Details of all prescriptions (drugs and appliances) issued by the GP. Recorded using the Gemscript product code system.';

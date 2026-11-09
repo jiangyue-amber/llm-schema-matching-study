@@ -1,0 +1,1 @@
+A foreign key identifier to the Person about whom the Note was recorded. The demographic details of that Person are stored in the PERSON table.

@@ -1,0 +1,1 @@
+The date when the instance of the Episode is considered to have ended. Please see [article] for how to define an Episode end date.

@@ -1,0 +1,1 @@
+Flag to highlight an error with the event.

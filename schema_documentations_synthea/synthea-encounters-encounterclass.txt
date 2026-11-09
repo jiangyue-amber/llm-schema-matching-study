@@ -1,0 +1,1 @@
+the class of the encounter, such as ambulatory, emergency, inpatient, wellness, or urgentcare

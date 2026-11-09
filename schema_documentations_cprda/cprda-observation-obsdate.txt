@@ -1,0 +1,1 @@
+Description: Date associated with the event, Type: DATE, Format: DD/MM/YYYY, Field Name: Event date, Mapping: None

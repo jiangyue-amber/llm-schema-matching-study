@@ -1,0 +1,1 @@
+Description: Staff members gender, Type: INTEGER, Format: 1, Field Name: Staff Gender, Mapping: Lookup SEX

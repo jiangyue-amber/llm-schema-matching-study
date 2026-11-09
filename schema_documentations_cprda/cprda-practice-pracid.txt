@@ -1,0 +1,1 @@
+Description: Encrypted unique identifier given to a practice in CPRD Aurum. This is the primary key for this table., Type: INTEGER, Format: 5, Field Name: Practice identifier, Mapping: None

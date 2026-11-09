@@ -1,0 +1,1 @@
+Offer represents the relationship between branches and the loans they offer.

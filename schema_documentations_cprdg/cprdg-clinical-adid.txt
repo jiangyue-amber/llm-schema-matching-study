@@ -1,0 +1,1 @@
+Description: Identifier that allows additional information to be retrieved for this event, when used in combination with pracid. A value of 0 signifies that there is no additional information associated with the event., Type: INTEGER, Format: 20, Field Name: Additional Details Identifier, Mapping: Link Additional Clinical Details table

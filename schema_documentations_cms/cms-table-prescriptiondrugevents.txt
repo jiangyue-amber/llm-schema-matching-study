@@ -1,0 +1,1 @@
+prescriptiondrugevents pertains to a synthetic part d event';

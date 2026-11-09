@@ -1,0 +1,1 @@
+Identifier for each hospital admission. The unique identifier for the visit during which the procedure took place.

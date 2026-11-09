@@ -1,0 +1,1 @@
+Description: Value to indicate whether the patient is registered with Child Health Surveillance, Type: INTEGER, Format: 1, Field Name: CHS Registered, Mapping: Lookup Y_N

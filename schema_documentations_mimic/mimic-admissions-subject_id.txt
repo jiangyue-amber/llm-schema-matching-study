@@ -1,0 +1,1 @@
+Unique identifier for the patient. Can be linked to the PATIENTS table using this identifier.

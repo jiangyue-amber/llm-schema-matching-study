@@ -1,0 +1,1 @@
+the base cost of the encounter, not including any line item costs related to medications, immunizations, procedures, or other services.

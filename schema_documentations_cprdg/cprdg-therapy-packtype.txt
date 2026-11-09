@@ -1,0 +1,1 @@
+Description: Pack size or type of the prescribed product, Type: INTEGER, Format: 10, Field Name: Pack type, Mapping: Lookup Packtype

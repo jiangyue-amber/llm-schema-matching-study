@@ -1,0 +1,1 @@
+A foreign key to the predefined concept in the Place of Service Vocabulary reflecting the discharge disposition for a visit.

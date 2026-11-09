@@ -1,0 +1,1 @@
+The date the Device or supply was removed from use.

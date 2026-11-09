@@ -1,0 +1,1 @@
+Description: Linked consultation identifier. In EMIS Web® it is not necessary to enter observations within a consultation, so this identifier may be missing., Type: TEXT, Format: Up to 19 numeric characters, Field Name: Consultation identifier, Mapping: Link Consultation table

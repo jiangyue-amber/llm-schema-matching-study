@@ -1,0 +1,1 @@
+Amount of the item which was originally charted.

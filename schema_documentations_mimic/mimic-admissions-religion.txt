@@ -1,0 +1,1 @@
+Religion of the patient. Sourced from the admission, discharge, and transfers (ADT) data from the hospital database.

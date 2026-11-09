@@ -1,0 +1,1 @@
+Description: The date that the patient registered with the CPRD contributing practice. Most recent date the patient is recorded as having registered at the practice. If a patient deregistered for a period of time and returned, the return date would be recorded., Type: DATE, Format: DD/MM/YYYY, Field Name: Registration start date, Mapping: None

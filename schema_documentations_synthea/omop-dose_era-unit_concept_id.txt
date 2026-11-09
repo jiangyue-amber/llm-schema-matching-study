@@ -1,0 +1,1 @@
+A foreign key that refers to a Standard Concept identifier in the Standardized Vocabularies for the unit concept.

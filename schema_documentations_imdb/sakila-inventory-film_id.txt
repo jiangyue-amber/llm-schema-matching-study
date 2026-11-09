@@ -1,0 +1,1 @@
+A foreign key pointing to the film this item represents.

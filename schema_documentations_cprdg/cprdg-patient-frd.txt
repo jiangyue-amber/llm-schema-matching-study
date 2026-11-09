@@ -1,0 +1,1 @@
+Description: Date the patient first registered with the practice. If patient only has temporary records, the date is the first encounter with the practice. if patient has permanent records it is the date of the first permanent record (excluding preceding temporary records), Type: DATE, Format: DD/MM/YYYY, Field Name: First Registration Date, Mapping: DD/MM/YYYY

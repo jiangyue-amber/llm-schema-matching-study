@@ -1,0 +1,1 @@
+Description: Level of capitation supplement the patient has currently (e.g. low, medium, high), Type: INTEGER, Format: 3, Field Name: Capitation Supplement, Mapping: Lookup CAP

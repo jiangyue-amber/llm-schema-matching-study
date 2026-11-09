@@ -1,0 +1,1 @@
+Time that the patient was registered in the emergency department.

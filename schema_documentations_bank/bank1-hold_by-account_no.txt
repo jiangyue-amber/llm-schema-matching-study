@@ -1,0 +1,1 @@
+Foreign key linking the account to the customer

@@ -1,0 +1,1 @@
+Description: Encrypted unique identifier given to the practice staff member who took the consultation in CPRD Aurum, Type: TEXT, Format: Up to 10 numeric characters, Field Name: Staff identifier, Mapping: Link Staff table

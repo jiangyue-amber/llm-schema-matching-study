@@ -1,0 +1,1 @@
+A foreign key identifier to the concept representing the 3-letter code used to delineate international currencies, such as USD for US Dollar.

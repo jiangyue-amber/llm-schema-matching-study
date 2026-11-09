@@ -1,0 +1,1 @@
+A foreign key pointing at the language table. identifies the original language of the film. Used when a film has been dubbed into a new language.

@@ -1,0 +1,1 @@
+Description: The consultation identifier linking events at the same consultation, when used in combination with pracid, Type: INTEGER, Format: 20, Field Name: Consultation Identifier, Mapping: Link Event tables

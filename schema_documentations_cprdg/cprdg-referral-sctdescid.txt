@@ -1,0 +1,1 @@
+Description: When direct selection and entry of SNOMED CT terms is permitted this will contain the description ID of the selected term. This field will be NULL when map type = 4 (data entered as Read code), Type: TEXT, Format: 20, Field Name: SNOMED description ID, Mapping: None

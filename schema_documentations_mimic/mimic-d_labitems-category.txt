@@ -1,0 +1,1 @@
+Category of item, for example chemistry or hematology.

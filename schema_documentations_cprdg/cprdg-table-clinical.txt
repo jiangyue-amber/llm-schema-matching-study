@@ -1,0 +1,1 @@
+Medical history events containing symptoms, signs, and diagnoses entered on the GP system. Coded using Read codes, with prospective mapping to SNOMED CT codes since April 2018.';

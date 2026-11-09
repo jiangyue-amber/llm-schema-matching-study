@@ -1,0 +1,1 @@
+Time of in-hospital death for the patient, if applicable. Usually the same as DISCHTIME, but discrepancies can occur due to typographical errors.

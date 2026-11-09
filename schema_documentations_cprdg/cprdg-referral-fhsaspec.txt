@@ -1,0 +1,1 @@
+Description: Referral speciality according to the Family Health Services Authority (FHSA) classification, Type: INTEGER, Format: 3, Field Name: FHSA Speciality, Mapping: Lookup SPE

@@ -1,0 +1,1 @@
+For sequences of episodes, this is used to indicate the order the episodes occurred. For example, lines of treatment could be indicated here. Please see [article] for the details of how to count episodes.

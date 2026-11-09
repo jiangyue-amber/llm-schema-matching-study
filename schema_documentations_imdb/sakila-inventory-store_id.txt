@@ -1,0 +1,1 @@
+A foreign key pointing to the store stocking this item.

@@ -1,0 +1,1 @@
+The EPISODE_CONCEPT_ID represents the kind of abstraction related to the disease phase, outcome, or treatment. Choose a concept in the Episode domain that best represents the ongoing disease phase, outcome, or treatment.

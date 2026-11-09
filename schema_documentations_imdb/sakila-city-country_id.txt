@@ -1,0 +1,1 @@
+A foreign key identifying the country that the city belongs to.

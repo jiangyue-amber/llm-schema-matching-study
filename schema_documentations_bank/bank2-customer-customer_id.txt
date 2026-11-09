@@ -1,0 +1,1 @@
+Primary key to uniquely identify each customer.

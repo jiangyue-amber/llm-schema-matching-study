@@ -1,0 +1,1 @@
+The number of individual Devices used for the exposure.

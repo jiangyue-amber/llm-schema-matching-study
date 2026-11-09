@@ -1,0 +1,1 @@
+Description: Identifier that allows dosage information on the event to be retrieved. Not included in first release, Type: TEXT, Format: 64 characters, Field Name: Dosage identifier, Mapping: Lookup: common_dosages.txt

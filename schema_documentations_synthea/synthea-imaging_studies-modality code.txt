@@ -1,0 +1,1 @@
+a dicom-dcm code describing the method used to take the images.

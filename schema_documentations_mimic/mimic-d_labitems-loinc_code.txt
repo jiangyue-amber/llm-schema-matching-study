@@ -1,0 +1,1 @@
+Logical Observation Identifiers Names and Codes (LOINC) mapped to the item, if available.

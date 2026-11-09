@@ -1,0 +1,1 @@
+The film_category table is used to support a many-to-many relationship between films and categories. For each category applied to a film, there will be one row in the film_category table listing the category and film. It refers to the film and category tables using foreign keys.';

@@ -1,0 +1,1 @@
+Branch stores details about each branch of the bank.

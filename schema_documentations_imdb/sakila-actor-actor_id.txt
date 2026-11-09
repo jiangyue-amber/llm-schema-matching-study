@@ -1,0 +1,1 @@
+A surrogate primary key used to uniquely identify each actor in the table.

@@ -1,0 +1,1 @@
+The upper limit of the normal range of the Measurement. The upper range is assumed to be of the same unit of measure as the Measurement value.

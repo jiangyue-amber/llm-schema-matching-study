@@ -1,0 +1,1 @@
+Table containing principal cast and crew information for IMDb titles';

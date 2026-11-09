@@ -1,0 +1,1 @@
+Description: The GP that the patient is nominally registered with. To be used with the Staff table for reference, Type: TEXT, Format: Up to 10 numeric characters, Field Name: Usual GP, Mapping: Link Staff table

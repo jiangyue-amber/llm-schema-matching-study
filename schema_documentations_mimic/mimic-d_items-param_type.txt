@@ -1,0 +1,1 @@
+Type of item, for example solution or ingredient.

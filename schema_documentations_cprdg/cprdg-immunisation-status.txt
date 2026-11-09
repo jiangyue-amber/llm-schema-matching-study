@@ -1,0 +1,1 @@
+Description: Status of the immunisation e.g. Advised, Given, Refusal, Type: INTEGER, Format: 3, Field Name: Status, Mapping: Lookup IMM

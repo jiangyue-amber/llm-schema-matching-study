@@ -1,0 +1,1 @@
+The contracted amount agreed between the payer and provider.

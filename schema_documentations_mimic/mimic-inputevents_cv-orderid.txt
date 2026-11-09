@@ -1,0 +1,1 @@
+Identifier linking items which are grouped in a solution.

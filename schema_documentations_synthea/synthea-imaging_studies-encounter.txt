@@ -1,0 +1,1 @@
+foreign key to the encounter where the imaging study was conducted.

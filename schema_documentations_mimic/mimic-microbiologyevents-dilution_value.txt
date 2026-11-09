@@ -1,0 +1,1 @@
+The value component of DILUTION_TEXT: must be a floating point number.

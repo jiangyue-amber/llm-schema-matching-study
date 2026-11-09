@@ -1,0 +1,1 @@
+Description: Total quantity entered by the GP for the prescribed treatment, Type: DECIMAL, Format: 9.31, Field Name: Quantity, Mapping: None

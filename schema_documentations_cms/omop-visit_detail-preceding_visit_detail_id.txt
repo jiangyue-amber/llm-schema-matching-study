@@ -1,0 +1,1 @@
+A foreign key to the VISIT_DETAIL table of the visit immediately preceding this visit

@@ -1,0 +1,1 @@
+the number of encounter's performed by this organization.

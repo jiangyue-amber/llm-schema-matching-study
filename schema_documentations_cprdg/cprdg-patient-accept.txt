@@ -1,0 +1,1 @@
+Description: Flag to indicate whether the patient has met certain quality standards: 1 = acceptable, 0 = unacceptable, Type: INTEGER, Format: 1, Field Name: Acceptable Patient Flag, Mapping: Boolean

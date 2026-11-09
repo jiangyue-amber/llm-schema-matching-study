@@ -1,0 +1,1 @@
+The rental table contains one row for each rental of each inventory item with information about who rented what item, when it was rented, and when it was returned. It refers to the inventory, customer, and staff tables and is referred to by the payment table.';

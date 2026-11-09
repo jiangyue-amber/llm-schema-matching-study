@@ -1,0 +1,1 @@
+Description: Encrypted unique identifier given to a specific practice in CPRD GOLD, Type: INTEGER, Format: 5, Field Name: Practice identifier, Mapping: None

@@ -1,0 +1,1 @@
+Foreign key to the Visit in the VISIT_DETAIL table when the Note was taken.

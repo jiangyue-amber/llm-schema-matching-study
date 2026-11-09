@@ -1,0 +1,1 @@
+Description: Urgency of the referral e.g. routine, urgent, dated, Type: INTEGER, Format: 1, Field Name: Referral urgency identifier, Mapping: Lookup: RefUrgency.txt

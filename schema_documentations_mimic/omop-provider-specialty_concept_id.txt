@@ -1,0 +1,1 @@
+A foreign key to a Standard Specialty Concept ID in the Standardized Vocabularies.

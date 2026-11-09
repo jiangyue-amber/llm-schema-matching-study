@@ -1,0 +1,1 @@
+A foreign key to a Standard Concept identifier for the Unit associated with the numeric quantity of the Specimen collection.

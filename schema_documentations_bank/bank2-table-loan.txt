@@ -1,0 +1,1 @@
+Records loans issued by the branch to specific accounts, tracking issued and remaining amounts.

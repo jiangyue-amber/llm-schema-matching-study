@@ -1,0 +1,1 @@
+Identifier for the first ward the patient was located in.

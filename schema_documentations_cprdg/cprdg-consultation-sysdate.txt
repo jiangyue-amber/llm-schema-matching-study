@@ -1,0 +1,1 @@
+Description: Date the event was entered into Vision, Type: DATE, Format: DD/MM/YYYY, Field Name: System Date, Mapping: DD/MM/YYYY

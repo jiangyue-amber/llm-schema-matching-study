@@ -1,0 +1,1 @@
+Value of the item in the procedure. The original value from the source data that represents the actual procedure performed.

@@ -1,0 +1,1 @@
+Description: Individual components of an immunisation, e.g. Mumps, Rubella, Measles, Type: INTEGER, Format: 4, Field Name: type, Mapping: Lookup IMT

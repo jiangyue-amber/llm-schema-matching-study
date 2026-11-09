@@ -1,0 +1,1 @@
+Description: Classification of the urgency of the referral e.g. Routine, Urgent, Type: INTEGER, Format: 2, Field Name: Urgency, Mapping: Lookup URG

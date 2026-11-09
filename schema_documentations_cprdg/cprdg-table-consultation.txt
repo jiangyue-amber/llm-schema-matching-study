@@ -1,0 +1,1 @@
+Information relating to the type of consultation entered by the GP, linked to events via the consultation identifier (consid).';

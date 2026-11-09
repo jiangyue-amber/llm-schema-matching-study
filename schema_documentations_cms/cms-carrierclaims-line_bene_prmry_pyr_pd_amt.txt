@@ -1,0 +1,1 @@
+line beneficiary primary payer paid amount 1 – line beneficiary primary payer paid amount 13

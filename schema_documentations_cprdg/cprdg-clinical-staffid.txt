@@ -1,0 +1,1 @@
+Description: Identifier of the practice staff member entering the data. A value of 0 indicates that the staffid is unknown, Type: INTEGER, Format: 20, Field Name: Staff Identifier, Mapping: Link Staff table

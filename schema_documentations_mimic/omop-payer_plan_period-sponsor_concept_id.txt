@@ -1,0 +1,1 @@
+This field represents the sponsor of the Plan who finances the Plan. This includes self-insured, small group health plan and large group health plan. Map the sponsor directly to a standard CONCEPT_ID with the domain_id of ‘Sponsor’ (Accepted Concepts). This vocabulary is not exhaustive so if there is a value missing, please see the custom concepts page.

@@ -1,0 +1,1 @@
+The time of an output event.

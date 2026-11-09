@@ -1,0 +1,1 @@
+Referral details recorded on the GP system, involving patient referrals to external care centres such as hospitals. Includes specialty and referral type.';

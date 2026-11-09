@@ -1,0 +1,1 @@
+Description: Stage of the immunisation given, e.g. 1, 2, B2, Type: INTEGER, Format: 2, Field Name: Stage, Mapping: Lookup IST

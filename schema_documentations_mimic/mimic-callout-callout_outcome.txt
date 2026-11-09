@@ -1,0 +1,1 @@
+The result of the call out request. either a cancellation or a discharge.

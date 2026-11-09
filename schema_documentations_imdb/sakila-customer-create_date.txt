@@ -1,0 +1,1 @@
+The date the customer was added to the system. This date is automatically set using a trigger during an INSERT.

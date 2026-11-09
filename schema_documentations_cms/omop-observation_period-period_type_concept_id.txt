@@ -1,0 +1,1 @@
+A foreign key identifier to the predefined concept in the Standardized Vocabularies reflecting the source of the observation period information

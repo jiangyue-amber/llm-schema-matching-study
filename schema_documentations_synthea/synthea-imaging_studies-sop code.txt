@@ -1,0 +1,1 @@
+a dicom-sop code describing the subject-object pair (sop) that constitutes the image.

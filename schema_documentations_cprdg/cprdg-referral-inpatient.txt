@@ -1,0 +1,1 @@
+Description: Classification of the type of referral, e.g. Day case, In patient, Type: INTEGER, Format: 2, Field Name: In Patient, Mapping: Lookup RFT

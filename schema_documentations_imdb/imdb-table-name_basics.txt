@@ -1,0 +1,1 @@
+Table containing basic information about people in IMDb';

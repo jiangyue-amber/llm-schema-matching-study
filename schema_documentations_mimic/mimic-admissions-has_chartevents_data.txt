@@ -1,0 +1,1 @@
+Indicates whether chart events data is available for this admission.

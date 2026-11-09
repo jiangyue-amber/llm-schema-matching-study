@@ -1,0 +1,1 @@
+Identifier for each item in the procedure. This field houses the unique concept identifier for the procedure. This is used primarily for analyses and network studies.

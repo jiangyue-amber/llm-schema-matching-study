@@ -1,0 +1,1 @@
+This field represents the organization who reimburses the provider which administers care to the Person. Map the payer directly to a standard CONCEPT_ID with the domain_id of ‘Payer’ (Accepted Concepts). This vocabulary is not exhaustive so if there is a value missing, please see the custom concepts page.

@@ -1,0 +1,1 @@
+Description: Role of the member of staff who created the event, Type: INTEGER, Format: 3, Field Name: Staff Role, Mapping: Lookup ROL

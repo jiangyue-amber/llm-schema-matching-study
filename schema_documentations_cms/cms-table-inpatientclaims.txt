@@ -1,0 +1,1 @@
+inpatientclaims pertains to a synthetic inpatient claim';

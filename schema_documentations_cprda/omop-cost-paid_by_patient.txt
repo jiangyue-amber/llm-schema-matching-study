@@ -1,0 +1,1 @@
+The total amount paid by the Person as a share of the expenses.

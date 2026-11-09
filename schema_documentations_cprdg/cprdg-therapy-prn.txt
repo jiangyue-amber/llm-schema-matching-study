@@ -1,0 +1,1 @@
+Description: Indicates if the prescription is to be supplied as required. Field available to GPs from end 2020., Type: BOOLEAN, Format: 1, Field Name: As Required, Mapping: None

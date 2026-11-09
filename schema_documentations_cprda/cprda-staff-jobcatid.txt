@@ -1,0 +1,1 @@
+Description: Job category of the staff member who created the event, Type: INTEGER, Format: 5, Field Name: Job category, Mapping: Lookup JobCat.txt

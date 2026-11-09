@@ -1,0 +1,1 @@
+Description: A placeholder for SNOMED CT post-coordinated expressions. This is not supported in early phases of SNOMED implementation., Type: TEXT, Format: 20, Field Name: SNOMED Expression, Mapping: None

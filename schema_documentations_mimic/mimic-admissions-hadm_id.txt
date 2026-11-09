@@ -1,0 +1,1 @@
+Unique identifier for a single patient’s admission to the hospital. Ranges from 1000000 - 1999999.

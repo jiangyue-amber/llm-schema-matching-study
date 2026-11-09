@@ -1,0 +1,1 @@
+The observation result stored as a string. This is applicable to observations where the result is expressed as verbatim text.

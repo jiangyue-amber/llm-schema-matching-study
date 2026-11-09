@@ -1,0 +1,1 @@
+A unique identifier for each term extracted from a note.

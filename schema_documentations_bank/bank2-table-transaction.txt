@@ -1,0 +1,1 @@
+Records all transactions made by customers, linked to both account and customer.

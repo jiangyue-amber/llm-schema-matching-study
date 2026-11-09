@@ -1,0 +1,1 @@
+Description: Duration of the treatment in days, Type: INTEGER, Format: 10, Field Name: Course duration in days, Mapping: None

@@ -1,0 +1,1 @@
+Description: Patient’s month of birth (for those aged under 16)., Type: INTEGER, Format: 2, Field Name: Month of birth, Mapping: None

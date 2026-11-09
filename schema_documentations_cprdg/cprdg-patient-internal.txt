@@ -1,0 +1,1 @@
+Description: Number of internal transfer out periods, in the patients registration details, Type: INTEGER, Format: 2, Field Name: Internal Transfer, Mapping: None

@@ -1,0 +1,1 @@
+A Measurement result where the result is expressed as a numeric value.

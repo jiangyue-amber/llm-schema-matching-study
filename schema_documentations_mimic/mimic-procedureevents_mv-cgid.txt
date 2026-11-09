@@ -1,0 +1,1 @@
+Identifier for each caregiver. The identification number of the provider associated with the procedure record, for example, the provider who performed the procedure.

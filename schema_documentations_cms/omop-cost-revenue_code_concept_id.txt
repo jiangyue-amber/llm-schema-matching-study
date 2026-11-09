@@ -1,0 +1,1 @@
+A foreign key referring to a Standard Concept ID in the Standardized Vocabularies for Revenue codes.

@@ -1,0 +1,1 @@
+Customer stores personal information about each bank customer.

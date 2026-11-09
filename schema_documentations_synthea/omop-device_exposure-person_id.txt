@@ -1,0 +1,1 @@
+A foreign key identifier to the Person who is subjected to the Device. The demographic details of that person are stored in the Person table.

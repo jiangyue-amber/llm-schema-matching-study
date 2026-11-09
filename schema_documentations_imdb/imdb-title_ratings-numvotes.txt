@@ -1,0 +1,1 @@
+number of votes the title has received (integer)

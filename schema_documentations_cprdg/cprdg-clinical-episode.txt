@@ -1,0 +1,1 @@
+Description: Episode type for a specific clinical event, Type: INTEGER, Format: 3, Field Name: Episode, Mapping: Lookup EPI

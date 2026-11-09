@@ -1,0 +1,1 @@
+A foreign key to a Standard Concept ID for a qualifier (e.g., severity of drug-drug interaction alert)

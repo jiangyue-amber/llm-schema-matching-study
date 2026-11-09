@@ -1,0 +1,1 @@
+Description: Patients month of birth (for those aged under 16). 0 indicates no month set, Type: INTEGER, Format: 2, Field Name: Birth Month, Mapping: None

@@ -1,0 +1,1 @@
+The city table contains a list of cities. It is referred to by a foreign key in the address table and refers to the country table using a foreign key.';

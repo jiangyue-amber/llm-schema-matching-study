@@ -1,0 +1,1 @@
+Table containing crew information for IMDb titles';

@@ -1,0 +1,1 @@
+The source code for the gender of the person as it appears in the source data. The person’s gender is mapped to a standard gender concept in the Standardized Vocabularies. the original value is stored here for reference.

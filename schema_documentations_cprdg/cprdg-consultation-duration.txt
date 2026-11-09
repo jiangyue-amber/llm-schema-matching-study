@@ -1,0 +1,1 @@
+Description: The length of time (minutes) between the opening, and closing of the consultation record, Type: INTEGER, Format: 10, Field Name: Duration, Mapping: None

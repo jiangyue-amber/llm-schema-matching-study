@@ -1,0 +1,1 @@
+The date the ETL script was completed. Typically this is after the source_release_date.

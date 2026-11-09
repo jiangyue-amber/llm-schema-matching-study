@@ -1,0 +1,1 @@
+A foreign key to a Standard Concept identifier for the anatomic location of specimen collection.

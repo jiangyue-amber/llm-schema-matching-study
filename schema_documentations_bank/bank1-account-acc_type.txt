@@ -1,0 +1,1 @@
+Type of account (e.g., savings, checking)

@@ -1,0 +1,1 @@
+The Patient file (Patient_NNN.txt) contains basic patient demographics and patient registration details for the patients.';

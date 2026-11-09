@@ -1,0 +1,1 @@
+Description: CPRD unique code for the medical term selected by the GP, Type: INTEGER, Format: 20, Field Name: Medical Code, Mapping: Lookup Medical Dictionary

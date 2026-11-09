@@ -1,0 +1,1 @@
+Description: Date the problem ended, Type: DATE, Format: DD/MM/YYYY, Field Name: Problem end date, Mapping: None

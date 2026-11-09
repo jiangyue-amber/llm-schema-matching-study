@@ -1,0 +1,1 @@
+outpatientclaims pertains to a synthetic outpatient claim';

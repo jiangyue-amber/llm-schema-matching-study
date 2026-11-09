@@ -1,0 +1,1 @@
+A foreign key to a Standard Concept identifier for a modifier to the Procedure (e.g. bilateral)

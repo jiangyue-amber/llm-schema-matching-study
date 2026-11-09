@@ -1,0 +1,1 @@
+Description: Indicates whether the Read to SNOMED mapping has been verified by a panel of physicians., Type: BOOLEAN, Format: 1, Field Name: SCT Is Assured, Mapping: None

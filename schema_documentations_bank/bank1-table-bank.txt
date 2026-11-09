@@ -1,0 +1,1 @@
+Bank stores information about the bank, including name, code, and address.

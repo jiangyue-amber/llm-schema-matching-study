@@ -1,0 +1,1 @@
+Preliminary, free text diagnosis for the patient on hospital admission. Assigned by the admitting clinician.

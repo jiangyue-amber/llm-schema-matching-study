@@ -1,0 +1,1 @@
+A foreign key to the predefined Concept in the Standardized Vocabularies representing the section of the extracted term.

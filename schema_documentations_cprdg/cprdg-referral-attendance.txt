@@ -1,0 +1,1 @@
+Description: Category describing whether the referral event is the first visit, a follow-up etc., Type: INTEGER, Format: 2, Field Name: Attendance type, Mapping: Lookup ATT

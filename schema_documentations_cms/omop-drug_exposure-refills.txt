@@ -1,0 +1,1 @@
+The number of refills after the initial prescription. The initial prescription is not counted, values start with 0.

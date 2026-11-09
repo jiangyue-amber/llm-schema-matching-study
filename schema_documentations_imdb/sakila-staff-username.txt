@@ -1,0 +1,1 @@
+The user name used by the staff member to access the rental system.

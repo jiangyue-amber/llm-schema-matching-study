@@ -1,0 +1,1 @@
+Foreign key referring to the associated account in the account table.

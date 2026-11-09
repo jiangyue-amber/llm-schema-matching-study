@@ -1,0 +1,1 @@
+This field represents the reason the Person left the Plan, if known. Map the stop reason directly to a standard CONCEPT_ID with a domain of ‘Plan Stop Reason’ (Accepted Concepts). If one does not exist visit the Custom Concepts pate for more information.

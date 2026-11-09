@@ -1,0 +1,1 @@
+If the ward where the call was submitted was an ICU, the ICU type is listed here.

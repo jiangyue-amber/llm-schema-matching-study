@@ -1,0 +1,1 @@
+The observation result stored as a number. This is applicable to observations where the result is expressed as a numeric value.

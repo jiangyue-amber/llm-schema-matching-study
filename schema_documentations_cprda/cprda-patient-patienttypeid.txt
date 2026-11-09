@@ -1,0 +1,1 @@
+Description: The category that the patient has been assigned to e.g. private, regular, temporary., Type: INTEGER, Format: 5, Field Name: Patient type, Mapping: Lookup: PatientType.txt

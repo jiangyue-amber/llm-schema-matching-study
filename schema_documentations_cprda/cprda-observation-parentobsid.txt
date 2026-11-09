@@ -1,0 +1,1 @@
+Description: Observation identifier (obsid) that is the parent to the observation. This enables grouping of multiple observations, such as systolic and diastolic blood pressure, or blood test results., Type: TEXT, Format: Up to 19 numeric characters, Field Name: Parent observation identifier, Mapping: Link Observation table

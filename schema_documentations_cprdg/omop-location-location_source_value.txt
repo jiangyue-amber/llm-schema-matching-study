@@ -1,0 +1,1 @@
+The verbatim information that is used to uniquely identify the location as it appears in the source data.

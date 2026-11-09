@@ -1,0 +1,1 @@
+Text string indicating the stopped status of an event (i.e. stopped, not stopped).

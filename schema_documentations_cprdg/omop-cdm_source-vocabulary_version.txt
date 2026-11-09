@@ -1,0 +1,1 @@
+Version of the OMOP standardised vocabularies loaded. You can find the version of your Vocabulary using the query: SELECT vocabulary_version from vocabulary where vocabulary_id = "None".

@@ -1,0 +1,1 @@
+Indicates whether the item will be continued in the next department where the patient is transferred to.

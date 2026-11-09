@@ -1,0 +1,1 @@
+[DERIVED] A Condition Era is defined as a span of time when the Person is assumed to have a given condition.';

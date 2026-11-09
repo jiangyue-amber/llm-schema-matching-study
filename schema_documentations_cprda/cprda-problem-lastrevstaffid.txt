@@ -1,0 +1,1 @@
+Description: Staff member who last reviewed the problem, Type: TEXT, Format: Up to 10 numeric characters, Field Name: Last review staff identifier, Mapping: Link Staff table

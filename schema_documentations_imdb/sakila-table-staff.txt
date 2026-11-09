@@ -1,0 +1,1 @@
+The staff table lists all staff members, including information for email address, login information, and picture. It refers to the store and address tables using foreign keys, and is referred to by the rental, payment, and store tables.';

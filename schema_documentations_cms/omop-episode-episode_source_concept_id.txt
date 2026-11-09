@@ -1,0 +1,1 @@
+A foreign key to an Episode Concept that refers to the code used in the source. Given that the Episodes are user-defined it is unlikely that there will be a Source Concept available. If that is the case then set this field to zero.

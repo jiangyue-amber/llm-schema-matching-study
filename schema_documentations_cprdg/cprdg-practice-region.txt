@@ -1,0 +1,1 @@
+Description: Value to indicate where in the UK the practice is based. The region denotes the ONS Region for practices within England, and the country i.e. Wales, Scotland, or Northern Ireland for the rest, Type: INTEGER, Format: 3, Field Name: Region, Mapping: Lookup PRG

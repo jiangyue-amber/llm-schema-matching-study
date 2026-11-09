@@ -1,0 +1,1 @@
+Maintain represents the relationship between branches and the accounts they manage.

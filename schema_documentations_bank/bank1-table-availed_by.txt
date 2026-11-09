@@ -1,0 +1,1 @@
+Availed_By represents the relationship between customers and the loans they have taken.

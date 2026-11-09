@@ -1,0 +1,1 @@
+A Metavision checkbox where a caregiver can specify that an observation is an error. No other details are provided.

@@ -1,0 +1,1 @@
+The date and time the Device or supply was applied or used.

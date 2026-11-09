@@ -1,0 +1,1 @@
+Identifier for each intensive care unit stay. The identifier for the detailed visit record during which the Procedure took place, such as the Intensive Care Unit stay during the hospital visit.

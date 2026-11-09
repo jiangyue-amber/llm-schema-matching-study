@@ -1,0 +1,1 @@
+Description: CPRD unique code for the medical term selected by the GP, Type: TEXT, Format: 6-18 numeric characters, Field Name: Medical code, Mapping: Lookup: Medical dictionary

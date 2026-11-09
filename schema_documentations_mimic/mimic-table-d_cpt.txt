@@ -1,0 +1,1 @@
+High-level dictionary of the Current Procedural Terminology. Unlike all other definition tables, D_CPT does not have a one to one mapping with the corresponding CPT_CD in CPTEVENTS, rather each row of D_CPT maps to a range of CPT_CD';

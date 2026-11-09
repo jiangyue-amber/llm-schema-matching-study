@@ -1,0 +1,1 @@
+Description: Old VM id for the patient when the practice was using the VAMP system, Type: INTEGER, Format: 20, Field Name: VAMP Identifier, Mapping: None

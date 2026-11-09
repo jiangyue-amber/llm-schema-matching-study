@@ -1,0 +1,1 @@
+Description: Type of service the referral relates to e.g. assessment, management, investigation, Type: INTEGER, Format: 2, Field Name: Referral service type identifier, Mapping: Lookup: RefServiceType.txt

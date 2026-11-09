@@ -1,0 +1,1 @@
+Description: Encrypted unique identifier given to a practice in CPRD Aurum, Type: INTEGER, Format: 5, Field Name: CPRD practice identifier, Mapping: Link Practice table

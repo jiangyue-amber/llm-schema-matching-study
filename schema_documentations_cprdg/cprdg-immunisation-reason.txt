@@ -1,0 +1,1 @@
+Description: Reason for administering the immunisation, e.g. Routine measure, Type: INTEGER, Format: 3, Field Name: Reason, Mapping: Lookup RIN

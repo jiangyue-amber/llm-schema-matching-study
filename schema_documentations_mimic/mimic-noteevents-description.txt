@@ -1,0 +1,1 @@
+A more detailed categorization for the note, sometimes entered by free-text.

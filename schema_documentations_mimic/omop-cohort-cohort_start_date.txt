@@ -1,0 +1,1 @@
+The date when the Cohort Definition criteria for the Person, Provider or Visit first match.

@@ -1,0 +1,1 @@
+The store table lists all stores in the system. All inventory is assigned to specific stores, and staff and customers are assigned a “home store”. It refers to the staff and address tables using foreign keys and is referred to by the staff, customer, and inventory tables.';

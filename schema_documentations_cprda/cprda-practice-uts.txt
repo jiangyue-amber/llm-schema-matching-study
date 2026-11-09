@@ -1,0 +1,1 @@
+Description: The date at which the practice data is deemed to be of research quality, based on CPRD algorithm. [Not currently populated], Type: DATE, Format: DD/MM/YYYY, Field Name: Up-to-standard date, Mapping: None

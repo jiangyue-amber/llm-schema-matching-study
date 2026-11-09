@@ -1,0 +1,1 @@
+Foreign key reference to the customer who took the loan.

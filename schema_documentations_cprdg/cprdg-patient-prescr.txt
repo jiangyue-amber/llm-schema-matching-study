@@ -1,0 +1,1 @@
+Description: type of prescribing exemption the patient has currently (e.g. medical / maternity), Type: INTEGER, Format: 3, Field Name: Prescription Exemption, Mapping: Lookup PEX

@@ -1,0 +1,1 @@
+The staff member who processed the rental. This is a foreign key reference to the staff table.

@@ -1,0 +1,1 @@
+Use this field to find the Episode that subsumes the given Episode record. This is used in the case that Episodes are nested into each other.

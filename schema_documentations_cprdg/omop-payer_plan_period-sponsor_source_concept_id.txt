@@ -1,0 +1,1 @@
+If the source data codes the sponsor in an OMOP supported vocabulary store the concept_id here.

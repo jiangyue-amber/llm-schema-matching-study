@@ -1,0 +1,1 @@
+Represents a branch of the bank, containing basic information about each branch.

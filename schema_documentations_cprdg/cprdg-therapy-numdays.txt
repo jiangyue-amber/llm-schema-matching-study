@@ -1,0 +1,1 @@
+Description: Number of treatment days prescribed for a specific therapy event, Type: INTEGER, Format: 20, Field Name: Number of Days, Mapping: None

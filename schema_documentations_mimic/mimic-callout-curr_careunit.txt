@@ -1,0 +1,1 @@
+If the ward where the patient is currently residing is an ICU, the ICU type is listed here.

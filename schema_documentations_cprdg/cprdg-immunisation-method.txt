@@ -1,0 +1,1 @@
+Description: Route of administration for the immunisation, e.g. Oral, Intramuscular, Type: INTEGER, Format: 3, Field Name: Method, Mapping: Lookup IME

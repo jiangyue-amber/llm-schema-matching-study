@@ -1,0 +1,1 @@
+A foreign key to the predefined concept in the standard vocabulary reflecting the condition status

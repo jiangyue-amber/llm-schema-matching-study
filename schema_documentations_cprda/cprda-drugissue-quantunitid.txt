@@ -1,0 +1,1 @@
+Description: Unit of the treatment (capsule, tablet), Type: INTEGER, Format: 2, Field Name: Quantity unit identifier, Mapping: Lookup: QuantUnit.txt

@@ -1,0 +1,1 @@
+the date the care plan ended, if applicable.

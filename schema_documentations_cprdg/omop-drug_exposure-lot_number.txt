@@ -1,0 +1,1 @@
+An identifier assigned to a particular quantity or lot of Drug product from the manufacturer.

@@ -1,0 +1,1 @@
+name by which the person is most often credited (string)

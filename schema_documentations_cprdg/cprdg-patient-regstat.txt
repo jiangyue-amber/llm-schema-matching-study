@@ -1,0 +1,1 @@
+Description: Status of registration detailing gaps and temporary patients, Type: INTEGER, Format: 2, Field Name: Registration Status, Mapping: PAT_STAT1

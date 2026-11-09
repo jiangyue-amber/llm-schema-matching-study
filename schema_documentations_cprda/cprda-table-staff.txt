@@ -1,0 +1,1 @@
+The Staff file (Staff_NNN.txt) contains practice staff details for each staff member, including job category.';

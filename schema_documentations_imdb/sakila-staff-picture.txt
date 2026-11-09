@@ -1,0 +1,1 @@
+A BLOB containing a photograph of the employee.

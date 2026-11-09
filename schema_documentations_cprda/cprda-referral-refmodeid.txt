@@ -1,0 +1,1 @@
+Description: Mode by which the referral was made e.g. telephone, written, Type: INTEGER, Format: 1, Field Name: Referral mode identifier, Mapping: Lookup: RefMode.txt

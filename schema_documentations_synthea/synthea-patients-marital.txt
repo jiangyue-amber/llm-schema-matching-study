@@ -1,0 +1,1 @@
+marital status. m is married, s is single. currently no support for divorce (d) or widowing (w)

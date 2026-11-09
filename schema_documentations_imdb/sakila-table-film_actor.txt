@@ -1,0 +1,1 @@
+The film_actor table is used to support a many-to-many relationship between films and actors. For each actor in a given film, there will be one row in the film_actor table listing the actor and film. It refers to the film and actor tables using foreign keys.';

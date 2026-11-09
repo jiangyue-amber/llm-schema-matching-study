@@ -1,0 +1,1 @@
+The category table lists the categories that can be assigned to a film. The category table is joined to the film table by means of the film_category table.';

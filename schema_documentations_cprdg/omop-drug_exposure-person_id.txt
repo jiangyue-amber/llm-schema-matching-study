@@ -1,0 +1,1 @@
+A foreign key identifier to the person who is subjected to the Drug. The demographic details of that person are stored in the person table.

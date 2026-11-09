@@ -1,0 +1,1 @@
+Records the time at which an observation was manually input or manually validated by a member of the clinical staff.

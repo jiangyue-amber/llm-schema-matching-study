@@ -1,0 +1,1 @@
+Indicates whether the bag is open.

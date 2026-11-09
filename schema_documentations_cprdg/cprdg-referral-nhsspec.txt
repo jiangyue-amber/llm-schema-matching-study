@@ -1,0 +1,1 @@
+Description: Referral speciality according to the National Health Service (NHS) classification, Type: INTEGER, Format: 3, Field Name: NHS Speciality, Mapping: Lookup DEP

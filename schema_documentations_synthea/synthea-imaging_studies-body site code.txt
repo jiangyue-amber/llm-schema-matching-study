@@ -1,0 +1,1 @@
+a snomed body structures code describing what part of the body the images in the series were taken of.

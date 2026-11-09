@@ -1,0 +1,1 @@
+A foreign key to a record in the COHORT_DEFINITION table containing relevant Cohort Definition information.

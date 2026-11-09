@@ -1,0 +1,1 @@
+Account stores information about accounts held by customers at the bank.

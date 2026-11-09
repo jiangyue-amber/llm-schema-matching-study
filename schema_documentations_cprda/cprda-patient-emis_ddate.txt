@@ -1,0 +1,1 @@
+Description: Date of death as recorded in the EMIS® software. Researchers are advised to treat the emis_ddate with caution and consider using the cprd_ddate variable below., Type: DATE, Format: DD/MM/YYYY, Field Name: Date of death, Mapping: None

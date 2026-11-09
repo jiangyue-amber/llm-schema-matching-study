@@ -1,0 +1,1 @@
+The Practice file (Practice_NNN.txt) contains details of each practice, including the practice identifier, practice region, and the last collection date.';

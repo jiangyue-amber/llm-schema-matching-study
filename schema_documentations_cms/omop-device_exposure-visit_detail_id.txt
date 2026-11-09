@@ -1,0 +1,1 @@
+A foreign key to the visit in the visit-detail table during which the Drug Exposure was initiated.

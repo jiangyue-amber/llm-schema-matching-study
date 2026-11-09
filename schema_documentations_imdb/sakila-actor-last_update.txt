@@ -1,0 +1,1 @@
+When the row was created or most recently updated.

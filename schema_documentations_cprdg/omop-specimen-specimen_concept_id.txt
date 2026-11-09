@@ -1,0 +1,1 @@
+A foreign key referring to a Standard Concept identifier in the Standardized Vocabularies for the Specimen.

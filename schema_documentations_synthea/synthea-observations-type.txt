@@ -1,0 +1,1 @@
+the datatype of value text or numeric.

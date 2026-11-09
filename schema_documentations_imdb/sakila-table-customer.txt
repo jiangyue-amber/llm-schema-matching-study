@@ -1,0 +1,1 @@
+The customer table contains a list of all customers. It is referred to in the payment and rental tables and refers to the address and store tables using foreign keys.';

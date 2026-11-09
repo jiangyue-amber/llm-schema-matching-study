@@ -1,0 +1,1 @@
+Length of stay in the unit in minutes.

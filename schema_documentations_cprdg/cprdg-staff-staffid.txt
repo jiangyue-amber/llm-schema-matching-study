@@ -1,0 +1,1 @@
+Description: Encrypted unique identifier given to the practice staff member entering the data, Type: INTEGER, Format: 20, Field Name: Staff Identifier, Mapping: None

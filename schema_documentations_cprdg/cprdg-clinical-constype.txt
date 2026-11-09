@@ -1,0 +1,1 @@
+Description: Code for the category of event recorded within the GP system (e.g. diagnosis or symptom), Type: INTEGER, Format: 3, Field Name: Consultation type, Mapping: Lookup SED

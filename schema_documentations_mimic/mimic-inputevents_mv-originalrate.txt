@@ -1,0 +1,1 @@
+Rate of administration originally chosen for the item.

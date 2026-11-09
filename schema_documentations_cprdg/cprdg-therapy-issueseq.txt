@@ -1,0 +1,1 @@
+Description: Number to indicate whether the event is associated with a repeat schedule. Value of 0 implies the event is not part of a repeat prescription. A value ≥ 1 denotes the issue number for the prescription within a repeat schedule, Type: INTEGER, Format: 20, Field Name: Issue Sequence Number, Mapping: None

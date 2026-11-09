@@ -1,0 +1,1 @@
+The Concept Id representing the version of the CDM. You can find all concepts that represent the CDM versions using the query: SELECT * FROM CONCEPT WHERE VOCABULARY_ID = "CDM" AND CONCEPT_CLASS = "CDM".

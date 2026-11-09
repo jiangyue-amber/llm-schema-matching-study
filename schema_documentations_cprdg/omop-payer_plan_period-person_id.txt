@@ -1,0 +1,1 @@
+The Person covered by the Plan. A single Person can have multiple, overlapping, PAYER_PLAN_PERIOD records.

@@ -1,0 +1,1 @@
+Length of stay in the ICU in minutes.

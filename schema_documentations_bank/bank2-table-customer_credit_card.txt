@@ -1,0 +1,1 @@
+Represents credit cards issued to customers, linked to customer and account.

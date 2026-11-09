@@ -1,0 +1,1 @@
+This field represents the specific health benefit Plan the Person is enrolled in. Map the Plan directly to a standard CONCEPT_ID in the ‘Plan’ vocabulary (Accepted Concepts). This vocabulary is not exhaustive so if there is a value missing, please see the custom concepts page.

@@ -1,0 +1,1 @@
+Description: Identifier that allows dosage information on the event to be retrieved. Use the Common Dosages Lookup to obtain the anonymised dosage text and extracted numerical information such as daily dose., Type: TEXT, Format: 64, Field Name: Dosage Identifier, Mapping: Lookup Common Dosages

@@ -1,0 +1,1 @@
+First time at which a ward was reserved for the call out request.

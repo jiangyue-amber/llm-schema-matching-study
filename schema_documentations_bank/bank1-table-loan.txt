@@ -1,0 +1,1 @@
+Loan contains information about the loans offered by branches.

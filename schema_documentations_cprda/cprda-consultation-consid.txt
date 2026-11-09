@@ -1,0 +1,1 @@
+Description: Unique identifier given to the consultation. This is the primary key for this table., Type: TEXT, Format: Up to 19 numeric characters, Field Name: Consultation identifier, Mapping: None

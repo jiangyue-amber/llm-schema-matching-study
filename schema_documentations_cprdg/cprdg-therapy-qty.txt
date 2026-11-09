@@ -1,0 +1,1 @@
+Description: Total quantity entered by the GP for the prescribed product, Type: INTEGER, Format: 20, Field Name: Total Quantity, Mapping: None

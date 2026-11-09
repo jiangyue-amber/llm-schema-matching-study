@@ -1,0 +1,1 @@
+Description: Unique CPRD code for the treatment selected by the GP, Type: TEXT, Format: 6-18 numeric characters, Field Name: Drug code identifier, Mapping: Lookup: Product dictionary

@@ -1,0 +1,1 @@
+The National Provider Identifier (NPI) of the provider.

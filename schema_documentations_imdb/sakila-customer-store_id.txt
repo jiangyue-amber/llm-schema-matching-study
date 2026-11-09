@@ -1,0 +1,1 @@
+A foreign key identifying the customer "home store." Customers are not limited to renting only from this store, but this is the store at which they generally shop.

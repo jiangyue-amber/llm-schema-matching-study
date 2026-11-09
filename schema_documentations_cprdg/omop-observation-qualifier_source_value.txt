@@ -1,0 +1,1 @@
+The source value associated with a qualifier to characterize the observation

@@ -1,0 +1,1 @@
+Description: Identifier that allows information about the consultation to be retrieved, when used in combination with pracid, Type: INTEGER, Format: 20, Field Name: Consultation Identifier, Mapping: Link Consultation table

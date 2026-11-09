@@ -1,0 +1,1 @@
+Description: Date associated with the event, as entered by the GP, Type: DATE, Format: DD/MM/YYYY, Field Name: Event Date, Mapping: DD/MM/YYYY

@@ -1,0 +1,1 @@
+Description: Expected duration of the problem in days, Type: INTEGER, Format: 5, Field Name: Expected duration, Mapping: None

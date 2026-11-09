@@ -1,0 +1,1 @@
+The known end date of a drug_exposure as provided by the source

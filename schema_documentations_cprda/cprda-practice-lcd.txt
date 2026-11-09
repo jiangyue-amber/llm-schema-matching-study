@@ -1,0 +1,1 @@
+Description: Date of the most recent CPRD data collection for the practice., Type: DATE, Format: DD/MM/YYYY, Field Name: Last Collection Date, Mapping: None

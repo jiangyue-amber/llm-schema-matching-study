@@ -1,0 +1,1 @@
+Description: The mapped SNOMED CT Concept ID. mapping is conducted prior to data transfer and will vary by mapping version used., Type: TEXT, Format: 20, Field Name: SNOMED CT Concept ID3, Mapping: None

@@ -1,0 +1,1 @@
+Identifier linking orders across multiple administrations. LINKORDERID is always equal to the first occuring ORDERID of the series.

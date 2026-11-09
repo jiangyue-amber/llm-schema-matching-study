@@ -1,0 +1,1 @@
+Represents customers who have taken loans, linking customers to specific loans they borrowed.

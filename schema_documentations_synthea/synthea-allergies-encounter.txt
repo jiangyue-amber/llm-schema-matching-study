@@ -1,0 +1,1 @@
+foreign key to the encounter when the allergy was diagnosed.

@@ -1,0 +1,1 @@
+Description: The version of the READ-SNOMED CT mapping table applied, Type: INTEGER, Format: 10, Field Name: SNOMED mapping Version, Mapping: None

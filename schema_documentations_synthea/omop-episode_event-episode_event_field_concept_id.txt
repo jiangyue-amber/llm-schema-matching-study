@@ -1,0 +1,1 @@
+This field is the CONCEPT_ID that identifies which table the primary key of the linked record came from. Put the CONCEPT_ID that identifies which table and field the EVENT_ID came from. Accepted Concepts.

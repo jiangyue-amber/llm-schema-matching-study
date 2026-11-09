@@ -1,0 +1,1 @@
+Sequence number of the event, derived from the ticket ID.

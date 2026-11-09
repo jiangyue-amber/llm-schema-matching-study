@@ -1,0 +1,1 @@
+Indicates when a new bottle of the solution was hung at the bedside.

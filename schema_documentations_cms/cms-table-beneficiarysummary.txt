@@ -1,0 +1,1 @@
+beneficiarysummary pertains to a synthetic medicare beneficiary';

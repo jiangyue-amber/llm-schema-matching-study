@@ -1,0 +1,1 @@
+Name and version of the NLP system that extracted the term.Useful for data provenance.

@@ -1,0 +1,1 @@
+Description: Family ID number, Type: INTEGER, Format: 20, Field Name: Family Number, Mapping: None

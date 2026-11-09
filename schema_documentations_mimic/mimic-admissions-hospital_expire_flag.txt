@@ -1,0 +1,1 @@
+Indicates whether the patient died within the given hospitalization. 1 indicates death in the hospital, 0 indicates survival to hospital discharge.

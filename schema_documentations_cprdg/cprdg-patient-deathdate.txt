@@ -1,0 +1,1 @@
+Description: Date of death of patient – derived using a CPRD algorithm, Type: DATE, Format: DD/MM/YYYY, Field Name: Death Date, Mapping: DD/MM/YYYY

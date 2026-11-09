@@ -1,0 +1,1 @@
+A foreign key to the Note table note the term was extracted from.

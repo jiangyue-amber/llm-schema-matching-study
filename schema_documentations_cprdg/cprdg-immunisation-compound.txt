@@ -1,0 +1,1 @@
+Description: Immunisation compound administered – may be a single or multicomponent preparation, e.g. MMR, Type: INTEGER, Format: 4, Field Name: Compound, Mapping: Lookup IMC

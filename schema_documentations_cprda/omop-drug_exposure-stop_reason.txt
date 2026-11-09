@@ -1,0 +1,1 @@
+The reason the Drug was stopped. Reasons include regimen completed, changed, removed, etc.

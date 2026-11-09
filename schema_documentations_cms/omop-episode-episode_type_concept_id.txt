@@ -1,0 +1,1 @@
+This field can be used to determine the provenance of the Episode record, as in whether the episode was from an EHR system, insurance claim, registry, or other sources. Choose the EPISODE_TYPE_CONCEPT_ID that best represents the provenance of the record.

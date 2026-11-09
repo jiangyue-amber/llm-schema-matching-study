@@ -1,0 +1,1 @@
+A surrogate primary key that uniquely identifies the store.

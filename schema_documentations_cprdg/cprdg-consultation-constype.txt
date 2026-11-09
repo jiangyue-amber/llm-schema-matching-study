@@ -1,0 +1,1 @@
+Description: type of consultation (e.g. Surgery Consultation, Night Visit, Emergency etc.), Type: INTEGER, Format: 3, Field Name: Consultation type, Mapping: Lookup COT

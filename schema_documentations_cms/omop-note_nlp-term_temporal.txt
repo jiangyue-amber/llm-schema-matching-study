@@ -1,0 +1,1 @@
+Term_temporal is to indicate if a condition is present or just in the past. The following would be past:History = true - Concept_date = anything before the time of the report

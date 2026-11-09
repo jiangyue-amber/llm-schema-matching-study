@@ -1,0 +1,1 @@
+A foreign key that refers to the standard concept identifier in the Standardized Vocabularies for the ethnicity of the person.

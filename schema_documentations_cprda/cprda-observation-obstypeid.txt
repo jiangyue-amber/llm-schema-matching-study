@@ -1,0 +1,1 @@
+Description: Type of observation (allergy, family history, observation), Type: INTEGER, Format: 5, Field Name: Observation type identifier, Mapping: Lookup: ObsType.txt

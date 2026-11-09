@@ -1,0 +1,1 @@
+Time that the patient was discharged from the emergency department.

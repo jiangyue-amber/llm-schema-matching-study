@@ -1,0 +1,1 @@
+Record of when patients were ready for discharge (called out), and the actual time of their discharge (or more generally, their outcome).';

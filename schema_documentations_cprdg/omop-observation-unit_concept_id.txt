@@ -1,0 +1,1 @@
+A foreign key to a Standard Concept ID of measurement units in the Standardized Vocabularies.

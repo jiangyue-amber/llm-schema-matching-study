@@ -1,0 +1,1 @@
+Description: Number of individual product packs prescribed for a specific therapy event, Type: INTEGER, Format: 8, Field Name: Number of Packs, Mapping: None

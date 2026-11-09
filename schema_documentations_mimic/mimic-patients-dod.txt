@@ -1,0 +1,1 @@
+Date of death. Null if the patient was alive at least 90 days post hospital discharge.

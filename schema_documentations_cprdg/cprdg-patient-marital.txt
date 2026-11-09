@@ -1,0 +1,1 @@
+Description: Patients current marital status, Type: INTEGER, Format: 3, Field Name: Marital Status, Mapping: Lookup MAR

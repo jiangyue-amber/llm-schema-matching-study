@@ -1,0 +1,1 @@
+Description: Value representing the low boundary of the normal range for this measurement, Type: NUMERIC, Format: 19.3, Field Name: Numeric range low, Mapping: None

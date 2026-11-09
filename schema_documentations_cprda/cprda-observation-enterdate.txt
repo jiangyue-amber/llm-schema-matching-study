@@ -1,0 +1,1 @@
+Description: Date the event was entered into EMIS Web®, Type: DATE, Format: DD/MM/YYYY, Field Name: Entered date, Mapping: None

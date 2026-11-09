@@ -1,0 +1,1 @@
+A foreign key to the concept in the concept table for the higher-level concept that forms the ancestor in the relationship.

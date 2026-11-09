@@ -1,0 +1,1 @@
+Represents bank accounts, specifying type, balance, and associated branch.

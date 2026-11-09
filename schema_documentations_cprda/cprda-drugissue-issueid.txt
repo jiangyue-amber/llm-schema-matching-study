@@ -1,0 +1,1 @@
+Description: Unique identifier given to the issue record. This is the primary key for this table., Type: TEXT, Format: Up to 19 numeric characters, Field Name: Issue record identifier, Mapping: None

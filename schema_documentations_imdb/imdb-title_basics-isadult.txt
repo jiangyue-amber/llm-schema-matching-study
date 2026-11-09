@@ -1,0 +1,1 @@
+0: non-adult title. 1: adult title (boolean)
